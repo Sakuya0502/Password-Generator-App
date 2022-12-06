@@ -4,5 +4,5 @@
 沒問題!快來下載這個APP就行了!
 
 ## 下載方式
-你可以在[這裡](https://github.com/z20030818/Password-Generator-App/releases/tag/V1.0) 載到最新版本
+你可以在[這裡](https://github.com/z20030818/Password-Generator-App/releases/tag/V1.0)載到最新版本
 裡面有個APK檔，下載那個就對了!
